@@ -4,9 +4,6 @@ import cs112_f22_week6_linter
 from cmu_112_graphics import *
 import colorsys
 
-# git add .
-# git commit -m "message"
-# git push
 
 def appStarted(app):
     #General App Variables
